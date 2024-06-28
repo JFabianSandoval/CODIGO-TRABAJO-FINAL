@@ -2,7 +2,7 @@ Página web actualizado, este repositorio es para todo público, colaborando a l
 Atte Estudiantes del curso Ing. de Software de la UPC, curso IHC y Tecnologias moviles
 
 CARPETA CORRESPONDIENTE: AGRO H2O 2.0
-CARPETA ANTERIOR: AGRO H2O
+//CARPETA ANTERIOR: AGRO H2O
 
 ¿Cómo abrir la página web?
 1. Descargue el folder principal llamado AGRO H2O 2.0
