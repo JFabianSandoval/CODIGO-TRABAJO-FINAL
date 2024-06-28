@@ -1,0 +1,108 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+#PRINCIPIO {
+    background-color: rgb(20, 145, 89);
+}
+#HEADER {
+    position: fixed;
+    background-color: white;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+#PrimerHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: normal;
+    height: 180px;
+}
+.redes-sociales {
+    padding-top: 50px;
+}
+.LogoIG, .LogoFB, .LogoX {
+    padding: 20px;
+    width: 45px;
+}
+.Logo-menu {
+    mix-blend-mode: multiply;
+    padding-right: 200px;
+}
+.perfil-menu {
+    padding-right: 20px;
+    padding-top: 50px;
+    width: 45px;
+}
+.ClaseLogo {
+    width: 200px;
+}
+.cuerpo {
+    padding-top: 160px;
+}
+#OpcionesIzquierda {
+    padding-top: 173px;
+}
+#OpcionesIzquierda li {
+        font-family: Arial, Helvetica, sans-serif;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: left;
+        background-color: rgb(42, 52, 113);
+        width: 150px;
+        padding: 17px;
+        box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+        color: white;
+        text-decoration: none;
+        list-style-type: none;
+        padding-left: 30px;
+        cursor: pointer;
+}
+#OpcionesIzquierda li a {
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+}
+#OpcionesIzquierda li:hover {
+    background-color: rgb(20, 145, 89);
+}
+#ServiciosDIV {
+    align-items: center;
+    background-color: rgb(20, 145, 89);
+    width: 908px;
+    position: absolute;
+    right: 40vh;
+    top: 0;
+    height: 100vh;
+    display: none;
+
+}
+#ServiciosDIV div button img {
+    width: 150px;
+    height: 150px;
+    
+}
+#ServiciosDIV div button{
+    background-color: rgba(240, 248, 255, 0);
+    outline: none;
+    border-radius: 15px;
+
+}
+#ServiciosDIV div {
+    padding: 0px 0px 20px 25px;
+}
+.hidden {
+    display: none;
+}
+#ContactanosDIV {
+    align-items: center;
+    background-color: rgb(20, 145, 89);
+    width: 908px;
+    position: absolute;
+    right: 42vh;
+    top: 0;
+    height: 100vh;
+    display: none;
+}
