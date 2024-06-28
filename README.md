@@ -1,6 +1,9 @@
 Página web actualizado, este repositorio es para todo público, colaborando a la comunidad de programadores. Muchas gracias por revisarlo.
 Atte Estudiantes del curso Ing. de Software de la UPC, curso IHC y Tecnologias moviles
 
+CARPETA CORRESPONDIENTE: AGRO H2O 2.0
+CARPETA ANTERIOR: AGRO H2O
+
 ¿Cómo abrir la página web?
 1. Descargue el folder principal llamado AGRO H2O 2.0
 2. Una vez descargado o zipeado extraiga todo su contenido.
